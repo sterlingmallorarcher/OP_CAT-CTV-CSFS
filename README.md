@@ -1,0 +1,4 @@
+# OP_CAT-CTV-CSFS
+
+This activation plan, entitled **"Operation Meow Mix"** is an activation plan for **OP_CAT, CTV, and CSFS** authored by SterlingMalloryArcher and Dan7dkt. We have done this independently of any formal organization and this proposal should not be seen as an endorsement. by any organization
+We acknowledge the broad range of perspectives within the Bitcoin community regarding scripting advancements. While most agree that improvements are necessary, the path forward remains contentious, with differing views on scope, security, and implementation. Reaching consensus will likely require compromise—ensuring that no single group gets everything they want, but that the network benefits from meaningful progress. As the saying goes, a good negotiation should leave everyone somewhat happy and somewhat disappointed, and that is the approach we take here.
